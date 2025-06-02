@@ -1,5 +1,5 @@
 # Kakande Here:
-Afro Futurist<br>-Working on an AI Virtual Assistant<br>-Interested in using tech to transform Africa<br>-Currently learning JavaScript<br>-Looking to collaborate on Innovative Open Source projects<br>-Reach out to [me](www.google.com) <br>-Fun fact: There is nothing as right or wrong, Just what is agreed upon by the masses
+Afro Futurist<br>-Interested in using tech to transform Africa<br>-Currently learning JavaScript<br>-Looking to collaborate on Innovative Open Source projects<br>-Reach out to [me](www.google.com) <br>-Fun fact: There is nothing as right or wrong, Just what is agreed upon by the masses
 
 
 ## 🌐 Socials:
