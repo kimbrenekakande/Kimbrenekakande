@@ -31,7 +31,8 @@ Status   : Open to collaborate
  
 ## Status
  
-- Currently building  *orunos*
+- Currently building  **[orunos](https://github.com/kimbrenekakande/orunos)**  | An AI academic copilot that uses stylometry to help students create authentic academic documents
+- Currently building **[signome](https://github.com/kimbrenekakande/signome)**  |  An AI microbiome study curator from various sources for entry into [BugSigDB](https://bugsigdb.org)
 - Currently learning  *Distributed systems in Go*
 - Looking to collaborate on **innovative open source projects**
 - Reach me at kimbrenekakande@gmail.com
