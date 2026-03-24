@@ -3,6 +3,7 @@
  
 > Building problem solving products at the intersection of Sci-Fi and Culture.
  
+<img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/81c6273d-de11-4f7d-bf2a-1cfdf6e908fc" />
 
  
 ```
