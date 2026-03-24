@@ -31,7 +31,7 @@ Status   : Open to collaborate
 ## Status
  
 - Currently building  *orunos*
-- Currently learning  *Go*
+- Currently learning  *Distributed systems in Go*
 - Looking to collaborate on **innovative open source projects**
 - Reach me at kimbrenekakande@gmail.com
 - Fun fact — *Africa is home to the world's fastest-growing tech communities*
