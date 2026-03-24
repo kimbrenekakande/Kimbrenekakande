@@ -1,9 +1,40 @@
-# Kakande Here:
-Afro Futurist<br>-Interested in using tech to transform Africa<br>-Looking to collaborate on Innovative Open Source projects<br>-Reach out to [me](www.google.com) <br>-Fun fact: There is nothing as right or wrong, Just what is agreed upon by the masses
+
+ ## Afro Futurist · FullStack AI Engineer · Open Source Contributor
+ 
+> Building problem solving products at the intersection of Sci-Fi and Culture.
+ 
+
+ 
+```
+Name     : Kakande Kimbrene
+Role     : FullStack AI Developer
+Mission  : Tech driven impact across Africa and the world at large
+Based    : Kampala, Uganda
+Status   : Open to collaborate
+```
+ 
+
+## Stack
+
+**Languages** · Python · TypeScript · Go
+
+**Dev Frameworks** · NextJS · ExpressJS · Expo · FastAPI · Django · Gin · Wails
+
+**AI Frameworks** · LangGraph · CrewAI · Vercel AI SDK · Pydantic AI
+
+**Databases** · PostgreSQL · Turso (SQLite / libSQL)
+
+**Tools** · Docker · PenPot 
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kimbrenekakande) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@kimbrenekakande) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kimbrenekakande) 
+ 
+## Status
+ 
+- Currently building  *orunos*
+- Currently learning  *Go*
+- Looking to collaborate on **innovative open source projects**
+- Reach me at kimbrenekakande@gmail.com
+- Fun fact — *Africa is home to the world's fastest-growing tech communities*
+ 
+---
 
-# 💻 Technologies:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
