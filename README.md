@@ -17,15 +17,14 @@ Status   : Open to collaborate
 
 ## Stack
 
-**Languages** · Python · TypeScript · Go
+**Languages** | Python · TypeScript · Go
 
-**Dev Frameworks** · NextJS · ExpressJS · Expo · FastAPI · Django · Gin · Wails
+**Dev Frameworks** | NextJS · ExpressJS · Expo · FastAPI · Django · Gin · Wails
 
-**AI Frameworks** · LangGraph · CrewAI · Vercel AI SDK · Pydantic AI
+**AI Frameworks** | LangGraph · CrewAI · Vercel AI SDK · Pydantic AI
 
-**Databases** · PostgreSQL · Turso (SQLite / libSQL)
+**Databases** | PostgreSQL · Turso (SQLite / libSQL)
 
-**Tools** · Docker · PenPot 
 
 
  
